@@ -1,0 +1,1 @@
+ruta_archivo = "/Users/linkedin/Documents/02_02/temperaturas.xlsx"
